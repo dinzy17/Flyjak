@@ -12,8 +12,13 @@
     border: 1px solid #317528;
   }
   
- 
-  
+.button--blue{
+  margin-top: 5%;
+}
+.text-tittle{
+  font-size: 23px;
+  margin: 1% 0;
+}
 
   
   .button--secondary .button__icon {
